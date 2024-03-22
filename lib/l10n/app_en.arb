@@ -1,0 +1,7 @@
+{
+    "english": "English",
+    "spanish": "Spanish",
+    "multiLocalization": "Multi Localization",
+    "whatIsFlutter": "What is flutter?",
+    "flutterOpenSource":"Flutter is an open-source UI software development kit (SDK) created by Google. It is used to build natively compiled applications for mobile, web, and desktop from a single codebase. Flutter allows developers to write applications using the Dart programming language, and it provides a rich set of pre-built UI components and widgets."
+}

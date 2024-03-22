@@ -1,0 +1,8 @@
+{
+    "english": "Inglesa",
+    "spanish": "Española",
+    "multiLocalization": "Localización múltiple",
+    "whatIsFlutter": "¿Qué es el aleteo?",
+    "flutterOpenSource":"Flutter es un kit de desarrollo de software (SDK) de interfaz de usuario de código abierto creado por Google. Se utiliza para crear aplicaciones compiladas de forma nativa para dispositivos móviles, web y de escritorio a partir de una única base de código. Flutter permite a los desarrolladores escribir aplicaciones utilizando el lenguaje de programación Dart y proporciona un amplio conjunto de componentes y widgets de interfaz de usuario prediseñados."
+
+}
